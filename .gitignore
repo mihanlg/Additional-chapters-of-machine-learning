@@ -101,6 +101,5 @@ ENV/
 
 # mypy
 .mypy_cache/
-*.csv
 HW3 Semisupervised learning/test.txt
 HW3 Semisupervised learning/train.txt
